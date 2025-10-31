@@ -1,0 +1,16 @@
+site_name: Pagina Haimar Alvarez
+site_author: Haimar
+site_url: https://haimar-alvarez.github.io
+
+theme:
+  name: dracula  
+  logo: assets/IconoPagina.ico
+  favicon: assets/favicon.ico
+  
+nav:
+  - Inicio: index.md
+  - Sobre Mí: sobre-mi.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
+
+repo_url: https://github.com/haimar-alvarez/haimar-alvarez.github.io
